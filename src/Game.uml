@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>Game</OriginalElement>
+  <nodes>
+    <node x="-57.14285714285711" y="-2.857142857142861">Plant</node>
+    <node x="-249.9999999999999" y="84.57142857142867">Game</node>
+    <node x="158.57142857142878" y="-1.9999999999999787">Zombie</node>
+    <node x="-252.0" y="-4.0">Main</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Group" zoom="0.7000000000000001" x="19.35714285714289" y="206.4285714285714" />
+  <SelectedNodes>
+    <node>Zombie</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
